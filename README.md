@@ -78,7 +78,7 @@
   - 적립한 에코 포인트에 따른 **에코 레벨** 부여
   - 에코 포인트 적립 현황 조회
 
-![ciaolabella1_mypage](README.assets/ciaolabella1_mypage.jpg)
+<img src="README.assets/ciaolabella1_mypage.jpg" alt="ciaolabella1_mypage" style="zoom:150%;" />
 
   
 
@@ -87,7 +87,7 @@
     - 서비스 로그인 회원 일자별, 연령대별, 성별, 지역별 통계
     - 에코 포인트 현황 지역별, 연령대별, 일자별 집계
 
-![(null)](README.assets/DRWC6D8.png)      
+<img src="README.assets/DRWC6D8.png" alt="(null)" style="zoom:150%;" />      
 
 ### 2.2. 서비스 기대효과
 
