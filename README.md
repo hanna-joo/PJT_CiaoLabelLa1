@@ -80,8 +80,6 @@
 
 <img src="README.assets/ciaolabella1_mypage.jpg" alt="ciaolabella1_mypage" style="zoom:150%;" />
 
-  
-
 - **관리자 페이지**
   - 유저 로그 분석 Dashboard
     - 서비스 로그인 회원 일자별, 연령대별, 성별, 지역별 통계

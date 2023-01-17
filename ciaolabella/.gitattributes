@@ -1,0 +1,4 @@
+ciaolabella filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+ecopointapp filter=lfs diff=lfs merge=lfs -text
+et[[:space:]]HEAD^ filter=lfs diff=lfs merge=lfs -text
