@@ -69,7 +69,7 @@
 
 - **무라벨 제품 검색**
 
-![ciaolabella_nolabel](README.assets/ciaolabella_nolabel.png)
+![ciaolabella_nolabel](README.assets/ciaolabella_nolabel.jpg)
 
 - **내 주변 레스웨이스트 위치 조회**
 
